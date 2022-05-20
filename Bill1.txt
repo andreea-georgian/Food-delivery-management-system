@@ -1,0 +1,12 @@
+Comanda numarul 1
+Client 2
+
+Produsele comandate:
+Chicken Satay Bites     35.0lei
+Chocolate Walnut Biscotti     25.0lei
+Smoked Salmon and Cucumber Squares     75.0lei
+Basic Veal Stock     98.0lei
+Cheddar Dill Puffs     74.0lei
+		Total: 307.0lei
+
+Multumim pentru incredere! :)

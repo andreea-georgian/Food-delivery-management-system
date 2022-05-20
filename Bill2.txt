@@ -1,0 +1,10 @@
+Comanda numarul 2
+Client 2
+
+Produsele comandate:
+Spicy Pickled Shallots     78.0lei
+Ethiopian Spice Tea     49.0lei
+Smoked Caviar and Hummus on Pita Toasts     79.0lei
+		Total: 206.0lei
+
+Multumim pentru incredere! :)
